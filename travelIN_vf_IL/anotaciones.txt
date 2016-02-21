@@ -1,0 +1,3 @@
+arreglar las imagenes cuando se adapta la pantalla
+	en los anuncios los bordes redondeados de la imagen
+	la imagen del slider el borde que sobra arriba
